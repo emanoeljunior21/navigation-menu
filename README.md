@@ -11,7 +11,7 @@ O projeto mantém a barra de navegação visível mesmo ao rolar a página e des
 
 - 🌐 **HTML5** → Estrutura da página e seções  
 - 🎨 **CSS3** → Estilização, layout responsivo e animações  
-- ⚡ **JavaScript (ES6+)** → Interatividade, rolagem suave e destaque da seção ativa  
+- ⚡ **JavaScript** → Interatividade, rolagem suave e destaque da seção ativa  
 
 ---
 
